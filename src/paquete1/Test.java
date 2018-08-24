@@ -10,6 +10,9 @@ public class Test {
 		double b=4;
 		double res=Operaciones.SUMA.resultado(a, b);
 		System.out.println(res);
+		System.out.println("Hola mundo");
+		
+		
 	}
 
 }
