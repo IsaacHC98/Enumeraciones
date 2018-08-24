@@ -15,6 +15,7 @@ public class Test {
 		for(Operaciones ope:Operaciones.values()){
 			System.out.println(ope.name());
 		
-	}
+		}
 
+	}
 }
